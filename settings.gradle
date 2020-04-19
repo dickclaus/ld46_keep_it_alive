@@ -1,0 +1,3 @@
+rootProject.name = 'KeepMeAlive'
+include 'desktop', 'core'
+
